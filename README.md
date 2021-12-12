@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Game Development**
 
-- 📝 I regularly write articles on [https://techcrunch.com/](https://techcrunch.com/)
+- 📝 I regularly read articles on [https://techcrunch.com/](https://techcrunch.com/)
 
 - 💬 Ask me about **Java & JavaScript**
 
