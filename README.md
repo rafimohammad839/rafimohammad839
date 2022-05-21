@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rafi</h1>
 <h3 align="center">A passionate Web Developer & Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Autodesk Project**
+- 🔭 I have recently worked on **Autodesk Project** in **AEM, Java and React Js**
 
-- 🌱 I’m currently making projects on **JavaScript Frameworks**
+- 🌱 I’m currently making projects on **React Js**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
