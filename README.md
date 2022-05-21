@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Autodesk Project**
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
+- 🌱 I’m currently making projects on **JavaScript Frameworks**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly read articles on [https://techcrunch.com/](https://techcrunch.com/)
 
-- 💬 Ask me about **Java & JavaScript**
+- 💬 Ask me about **JavaScript, ReactJs and Java**
 
 - 📫 How to reach me **rafi.workaholic@gmail.com**
 
