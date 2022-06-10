@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rafi</h1>
 <h3 align="center">A passionate Web Developer & Software Engineer from India</h3>
 
+- 🔭 I am currently working on **Max Life Insurance Project** in **AEM and React Js**
+
 - 🔭 I have recently worked on **Autodesk Project** in **AEM, Java and React Js**
 
-- 🌱 I’m currently making projects on **React Js**
+- 🌱 I’m currently making projects on **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
@@ -11,7 +13,7 @@
 
 - 📝 I regularly read articles on [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **JavaScript, ReactJs and Java**
+- 💬 Ask me anything about **JavaScript, ReactJs and Redux**
 
 - 📫 How to reach me **rafi.workaholic@gmail.com**
 
